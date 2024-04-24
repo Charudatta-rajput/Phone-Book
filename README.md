@@ -34,11 +34,12 @@ Search: Enter the name to search for the corresponding phone number.</br>
 Display: View all entries in the phonebook.</br>
 Exit: Terminate the program.</br>
 
-
-![WhatsApp Image 2024-04-24 at 9 28 49 PM](https://github.com/Charudatta-rajput/Phone-Book/assets/162331939/ab381ad7-8357-44f4-9b2b-085a2f4e3775)
 Contributing
 
 Contributions are welcome! If you find any bugs or have ideas for improvements, feel free to open an issue or submit a pull request.
 
 License
 This project is licensed under the MIT License.
+
+
+![WhatsApp Image 2024-04-24 at 9 28 49 PM](https://github.com/Charudatta-rajput/Phone-Book/assets/162331939/ab381ad7-8357-44f4-9b2b-085a2f4e3775)
